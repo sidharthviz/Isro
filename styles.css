@@ -1,9 +1,15 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
-h1{
+.name{
     text-align: center;
     padding: 20px;
+    color: aliceblue;
+}
+
+ul{
+    color: goldenrod;
 }
